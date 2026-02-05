@@ -1,0 +1,12 @@
+/*
+!/.gitignore
+!/caelestia-assets/
+!/source-configs/
+/apps/
+
+# Ignore heavy/secret data inside apps
+**/Cache/
+**/CachedData/
+**/logs/
+**/*.log
+**/backups/
